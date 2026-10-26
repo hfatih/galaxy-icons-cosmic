@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageType": "icon_pack",
   "name": "Galaxy Icons - Cosmic Edition",
-  "description": "Kozmik nebula gradyanları, yıldız tozu pırıltıları ve 4 renk temasında (Nebula Pink, Cosmic Purple, Deep Indigo, Obsidian Void) 2.016 adet Stream Deck & Evoxdeck ikon paketi.",
+  "description": "Kozmik nebula gradyanları, yıldız tozu pırıltıları ve 4 renk temasında (Nebula Pink, Cosmic Purple, Deep Indigo, Obsidian Void) 2.016 adet evoXdeck ikon paketi.",
   "version": "1.0.0",
   "author": {
     "id": "hfatih",
@@ -1537,11 +1537,6 @@
         "path": "icons/icon-0300-nebula-pink-pinterest.png"
       },
       {
-        "id": "icon-0301-nebula-pink-elgato",
-        "name": "Nebula Pink Elgato",
-        "path": "icons/icon-0301-nebula-pink-elgato.png"
-      },
-      {
         "id": "icon-0302-nebula-pink-razer",
         "name": "Nebula Pink Razer",
         "path": "icons/icon-0302-nebula-pink-razer.png"
@@ -1805,11 +1800,6 @@
         "id": "icon-0354-nebula-pink-cooler-master",
         "name": "Nebula Pink Cooler Master",
         "path": "icons/icon-0354-nebula-pink-cooler-master.png"
-      },
-      {
-        "id": "icon-0355-nebula-pink-patreon",
-        "name": "Nebula Pink Patreon",
-        "path": "icons/icon-0355-nebula-pink-patreon.png"
       },
       {
         "id": "icon-0356-nebula-pink-buy-me-a-coffee",
@@ -4057,11 +4047,6 @@
         "path": "icons/icon-0800-cosmic-purple-pinterest.png"
       },
       {
-        "id": "icon-0801-cosmic-purple-elgato",
-        "name": "Cosmic Purple Elgato",
-        "path": "icons/icon-0801-cosmic-purple-elgato.png"
-      },
-      {
         "id": "icon-0802-cosmic-purple-razer",
         "name": "Cosmic Purple Razer",
         "path": "icons/icon-0802-cosmic-purple-razer.png"
@@ -4325,11 +4310,6 @@
         "id": "icon-0854-cosmic-purple-cooler-master",
         "name": "Cosmic Purple Cooler Master",
         "path": "icons/icon-0854-cosmic-purple-cooler-master.png"
-      },
-      {
-        "id": "icon-0855-cosmic-purple-patreon",
-        "name": "Cosmic Purple Patreon",
-        "path": "icons/icon-0855-cosmic-purple-patreon.png"
       },
       {
         "id": "icon-0856-cosmic-purple-buy-me-a-coffee",
@@ -6577,11 +6557,6 @@
         "path": "icons/icon-1300-deep-indigo-pinterest.png"
       },
       {
-        "id": "icon-1301-deep-indigo-elgato",
-        "name": "Deep Indigo Elgato",
-        "path": "icons/icon-1301-deep-indigo-elgato.png"
-      },
-      {
         "id": "icon-1302-deep-indigo-razer",
         "name": "Deep Indigo Razer",
         "path": "icons/icon-1302-deep-indigo-razer.png"
@@ -6845,11 +6820,6 @@
         "id": "icon-1354-deep-indigo-cooler-master",
         "name": "Deep Indigo Cooler Master",
         "path": "icons/icon-1354-deep-indigo-cooler-master.png"
-      },
-      {
-        "id": "icon-1355-deep-indigo-patreon",
-        "name": "Deep Indigo Patreon",
-        "path": "icons/icon-1355-deep-indigo-patreon.png"
       },
       {
         "id": "icon-1356-deep-indigo-buy-me-a-coffee",
@@ -9097,11 +9067,6 @@
         "path": "icons/icon-1800-obsidian-void-pinterest.png"
       },
       {
-        "id": "icon-1801-obsidian-void-elgato",
-        "name": "Obsidian Void Elgato",
-        "path": "icons/icon-1801-obsidian-void-elgato.png"
-      },
-      {
         "id": "icon-1802-obsidian-void-razer",
         "name": "Obsidian Void Razer",
         "path": "icons/icon-1802-obsidian-void-razer.png"
@@ -9365,11 +9330,6 @@
         "id": "icon-1854-obsidian-void-cooler-master",
         "name": "Obsidian Void Cooler Master",
         "path": "icons/icon-1854-obsidian-void-cooler-master.png"
-      },
-      {
-        "id": "icon-1855-obsidian-void-patreon",
-        "name": "Obsidian Void Patreon",
-        "path": "icons/icon-1855-obsidian-void-patreon.png"
       },
       {
         "id": "icon-1856-obsidian-void-buy-me-a-coffee",
